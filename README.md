@@ -4,7 +4,7 @@ CSEE 4119
 
 --
 
-Compiling:
+**Compiling:**
 
 Unzip zip file eco2116_java.zip
 Enter eco2116_java directory
